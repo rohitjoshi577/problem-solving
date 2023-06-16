@@ -5,3 +5,5 @@ function multi(x){
 }
 
 multi(5);
+
+// 1 to n (for loop ) (1 to 10 multiplication)
